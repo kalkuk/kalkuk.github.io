@@ -1,0 +1,10 @@
+body{
+    font-family: 'Raleway';
+    font-size: large;
+    color: black;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.welcome-text {
+    margin: auto;
+}

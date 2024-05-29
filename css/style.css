@@ -2,9 +2,12 @@ body{
     font-family: 'Raleway';
     font-size: large;
     color: black;
-    background-color: cornflowerblue;
+    background-color: hsl(219, 79%, 95%) ;
     text-align: center;
 }
 .welcome-text {
     margin: auto;
+    font-size: 3rem;
+    margin-top: 2rem;
+    color: black;
 }
